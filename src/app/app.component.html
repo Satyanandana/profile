@@ -8,8 +8,9 @@
 
 <h2>Languages</h2>
 <ul>
-  <li *ngFor="let l of languages|sort:'ASC'"> {{l}} </li>
+  <li *ngFor="let s of (getSkills()| async)"> {{s?.language}} </li>
 </ul>
+
 
 
 <router-outlet></router-outlet>
