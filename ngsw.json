@@ -1,0 +1,36 @@
+{
+  "configVersion": 1,
+  "index": "'https://satyanandana.github.io/profile/'/index.html",
+  "assetGroups": [
+    {
+      "name": "ng5",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "'https://satyanandana.github.io/profile/'/favicon.ico",
+        "'https://satyanandana.github.io/profile/'/index.html",
+        "'https://satyanandana.github.io/profile/'/inline.318b50c57b4eba3d437b.bundle.js",
+        "'https://satyanandana.github.io/profile/'/main.e982ee41e5cf7aacc1e6.bundle.js",
+        "'https://satyanandana.github.io/profile/'/polyfills.35d395590c0a06fb7afd.bundle.js",
+        "'https://satyanandana.github.io/profile/'/styles.73040a4f3bdc995c5602.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "'https://satyanandana.github.io/profile/'/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "'https://satyanandana.github.io/profile/'/main.e982ee41e5cf7aacc1e6.bundle.js": "a9c1e8013fe324c7f6a32b30f75590d6717bdbcd",
+    "'https://satyanandana.github.io/profile/'/polyfills.35d395590c0a06fb7afd.bundle.js": "035ab6b153536dc257cae49009b0c1dc118bc075",
+    "'https://satyanandana.github.io/profile/'/styles.73040a4f3bdc995c5602.bundle.css": "c69c9fb56d87226061404a62e993505cd1f76846",
+    "'https://satyanandana.github.io/profile/'/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "'https://satyanandana.github.io/profile/'/index.html": "6ee97b463602551d6312c6fdb9f29a9c93975b63"
+  }
+}
