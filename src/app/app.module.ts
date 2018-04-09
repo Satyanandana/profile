@@ -16,14 +16,16 @@ import {MessagingService} from './service/messaging.service';
 import { AppRoutingModule } from './app-routing.module';
 
 import { AppComponent } from './app.component';
-import { SortPipe } from './sort.pipe';
+import { SortPipe } from './pipes/sort.pipe';
+import { DefaultPipe } from './pipes/default.pipe';
 
 
 
 @NgModule({
   declarations: [
     SortPipe,
-    AppComponent
+    AppComponent,
+    DefaultPipe
   ],
   imports: [
     BrowserModule,

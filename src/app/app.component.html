@@ -11,6 +11,6 @@
   <li *ngFor="let s of (getSkills()| async)"> {{s?.language}} </li>
 </ul>
 
-
+{{message | async | json | default:'No Push message to show'}}
 
 <router-outlet></router-outlet>

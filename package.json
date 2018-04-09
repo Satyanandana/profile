@@ -7,7 +7,7 @@
     "start": "ng serve",
     "build": "ng build --prod",
     "build-watch": "ng build --prod --watch",
-    "build-ghp": "ng build --prod --base-href 'https://satyanandana.github.io/profile/'",
+    "build-ghp": "ng build --prod --base-href https://satyanandana.github.io/profile/",
     "deploy-ghp": "ngh",
     "test": "ng test",
     "lint": "ng lint",
